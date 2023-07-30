@@ -7,9 +7,9 @@ int main()
     printf("Enter any number: ");
     scanf("%d", &num);
 
-    for (int i = 0; i <= num; i++)
+    for (int i = 0, j = 0; i <= num; i++, j++)
     {
-        printf("%d \n", i);
+        printf("i=%d \t j=%d \n", i, j);
     }
 
     return 0;
