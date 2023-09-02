@@ -25,6 +25,6 @@ This repository thrives on collaboration. Your contributions, whether they invol
 
 - Let's connect on [LinkedIn](https://www.linkedin.com/in/mooazam/) to unlock networking opportunities and remain informed about the latest trends in the programming universe. <br>
 
-- Join me on [Twitter](https://twitter.com/SMMooazam) for daily doses of inspiration, profound insights, and thrilling coding adventures.
+- Join me on [Twitter](https://twitter.com/SMMooazam) for doses of inspiration, profound insights, and thrilling coding adventures.
 
 Prepare to unlock the boundless potential of C programming! Together, we will craft elegant code, surmount challenges, and ignite a profound passion for programming within you. 🖥️💡🚀
