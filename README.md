@@ -7,7 +7,7 @@
 
 ### Getting Started 🚀
 
-1. **Clone this Repository**: Kickstart your journey by cloning this repository to your local machine: `git clone https://github.com/YourUsername/CLanguageCourse.git` <br>
+1. **Clone this Repository**: Kickstart your journey by cloning this repository to your local machine: `git clone https://github.com/MuhammadMooazam/C-Programming-Language.git` <br>
 
 2. **Explore the Code**: Delve into a treasure trove of source code, illuminating examples, and captivating projects meticulously designed to fuel your learning. <br>
 
